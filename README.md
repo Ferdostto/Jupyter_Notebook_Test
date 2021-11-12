@@ -1,2 +1,2 @@
-# Jupyter_Notebook_Test
-Testing to use and collaborate on Jupyter Notebooks across multiple personal devices
+# Project Otaku: An Anime Reccomendation Engine
+Collaborative Filtering
